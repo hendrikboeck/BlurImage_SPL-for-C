@@ -1,0 +1,2 @@
+# BlurImage_SPL-for-C
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8829bef06b1444c88dcba79f5566d788)](https://app.codacy.com/gh/hendrikboeck/BlurImage_SPL-for-C?utm_source=github.com&utm_medium=referral&utm_content=hendrikboeck/BlurImage_SPL-for-C&utm_campaign=Badge_Grade)
